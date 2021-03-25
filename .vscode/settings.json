@@ -1,0 +1,14 @@
+{
+  "editor.formatOnSave": true,
+  "prettier.trailingComma": "all",
+  "eslint.format.enable": true,
+  "prettier.enable": true,
+  "prettier.singleQuote": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true
+  },
+  "git.autofetch": true,
+  "editor.tabSize": 2
+}
